@@ -1,0 +1,27 @@
+body {
+    padding-left: 10px;
+    background-color: white
+}
+
+h1 {
+    color: black
+}
+
+h2 {
+    color: black;
+    font-style: italic;
+}
+.Person {
+    color: black;
+    padding-top: 3px;
+    font-size: 15px;
+}
+.Notification {
+    color: red;
+    background: lightgrey;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
